@@ -2,6 +2,9 @@
 namespace DpPHPUnitExtensions\PHPUnit;
 
 // Framework usage
+use Closure;
+use PHPUnit_Framework_AssertionFailedError;
+use PHPUnit_Framework_Constraint_IsTrue;
 use PHPUnit_Framework_TestCase;
 use PHPUnit_Framework_MockObject_MockObject;
 use PHPUnit_Framework_MockObject_Matcher_Invocation;
