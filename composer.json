@@ -1,0 +1,12 @@
+{
+    "name": "dpeuscher/dp-phpunit-extensions",
+    "description": "Extensions to PHPUnit",
+    "license": "GPL-2.0",
+    "require": {
+        "php": ">=5.4",
+        "zendframework/zendframework": "2.3.*-dev",
+        "phpunit/phpunit": "3.7.*",
+        "sebastian/exporter": "dev-master",
+        "dpeuscher/dp-zf-extensions": "dev-master"
+    }
+}
